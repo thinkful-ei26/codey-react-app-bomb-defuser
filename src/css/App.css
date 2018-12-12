@@ -2,11 +2,6 @@
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-}
-
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -20,6 +15,42 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.box {
+  background-color: #282c34;
+  width: 60vw;
+  display: inline-block;
+  border-radius: 3px;
+}
+
+.bomb-btns {
+  display: inline-block;
+  width: 40vw;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.green {
+  color: green;
+}
+
+.orange {
+  color: orange;
+}
+
+.purple {
+  color: purple;
 }
 
 @keyframes App-logo-spin {

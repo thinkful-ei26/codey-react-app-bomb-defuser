@@ -1,0 +1,12 @@
+.stopwatch-timer {
+    font-family: 'Orbitron', sans-serif;
+    background-color: rgb(48, 53, 77);
+    border: 1px solid rgb(48, 53, 77);
+    border-radius: 3px;
+    color: red;
+    display: inline-block;
+    height: 10vh;
+    width: 40vw;
+    font-size: 52px;
+    margin: 1vh;
+}

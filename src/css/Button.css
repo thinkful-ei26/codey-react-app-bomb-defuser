@@ -1,0 +1,39 @@
+button {
+    width: 10vw;
+    margin: 1vw;
+    border-radius: 3px;
+    background-color: rgb(48, 53, 77);
+    border: 2px solid rgb(48, 53, 77);
+    color: white;
+}
+
+.red-btn {
+    background-color: red;
+    border: 2px solid red;
+    
+}
+
+.blue-btn {
+    background-color: blue;
+    border: 2px solid blue;
+}
+
+.yellow-btn {
+    background-color: yellow;
+    border: 2px solid yellow;
+}
+
+.green-btn {
+    background-color: green;
+    border: 2px solid green;
+}
+
+.orange-btn {
+    background-color: orange;
+    border: 2px solid orange;
+}
+
+.purple-btn {
+    background-color: purple;
+    border: 2px solid purple;
+}
