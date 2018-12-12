@@ -1,2 +1,2 @@
 # Bomb Defuser
-simple memory game created using React.
+Simple memory game created using React.
